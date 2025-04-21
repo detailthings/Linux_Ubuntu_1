@@ -7,7 +7,7 @@
     - Test above feature
 
 ## 2. coding
-    a. Install Apache
+    a. Install Apache # " A Patchy Server "
         - sudo apt install apache2 -y
          #Install apache2 through apt
         - sudo systemctl status apache2
@@ -16,7 +16,7 @@
         - http://(ip-virtual-machine)
          #Test on the browser in real machine
          #If it appear "Apache2 Ubuntu Default Page", it is succes.
-    b. Instal FTP server (vsftpd)
+    b. Instal FTP server (vsftpd) # " Very Secure FTP Deamon "
         - sudo apt install vsftpd -y
          #Install vsftpd through apt
         - sduo systemctl status vsftpd
